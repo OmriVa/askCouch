@@ -3,8 +3,8 @@
 
 $host = 'localhost';
 $db   = 'lift';
-$user = 'root';
-$pass = '';
+$user = 'dummy';
+$pass = 'dummy';
 $charset = 'utf8mb4';
 $home = 'http://localhost/php/FINAL PROJECT';
 
